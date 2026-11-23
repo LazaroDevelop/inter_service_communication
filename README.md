@@ -1,4 +1,4 @@
-# Intercommunication Services
+# Inter-service communication
 
 Microservices infrastructure built with **Spring Boot**, implementing an API Gateway, Service Registry, Configuration Server, and core/order services.  
 Designed to demonstrate inter-service communication, centralized configuration, and modular architecture.
